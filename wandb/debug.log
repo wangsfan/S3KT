@@ -1,0 +1,7 @@
+2023-05-05 21:42:44,009 DEBUG   MainThread:23168 [wandb_config.py:_load_defaults():154] no defaults not found in config-defaults.yaml
+2023-05-05 21:42:49,048 DEBUG   MainThread:23168 [git_repo.py:repo():30] git repository is invalid
+2023-05-05 21:42:49,061 DEBUG   MainThread:23168 [run_manager.py:__init__():547] Initialized sync for zhaoning_sun_semester_thesis/28zph3at
+2023-05-05 21:42:49,074 INFO    MainThread:23168 [run_manager.py:wrap_existing_process():1149] wrapping existing process 23091
+2023-05-05 21:42:49,074 WARNING MainThread:23168 [io_wrap.py:register():108] SIGWINCH handler was not None: <Handlers.SIG_DFL: 0>
+2023-05-05 21:42:50,038 INFO    Thread-9  :23168 [run_manager.py:_on_file_created():681] file/dir created: /home/thc/ess/ess-main/wandb/run-20230505_214238-28zph3at/output.log
+2023-05-05 21:42:50,038 INFO    Thread-9  :23168 [28zph3at:run_manager.py:_on_file_created():681] file/dir created: /home/thc/ess/ess-main/wandb/run-20230505_214238-28zph3at/output.log

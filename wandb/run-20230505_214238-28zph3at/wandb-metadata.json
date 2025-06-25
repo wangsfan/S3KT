@@ -1,0 +1,23 @@
+{
+    "root": "/home/thc/ess/ess-main",
+    "program": "/home/thc/ess/ess-main/train.py",
+    "startedAt": "2023-05-05T13:42:43.710501",
+    "host": "thc-MS-7D36",
+    "username": "thc",
+    "executable": "/home/thc/anaconda3/envs/e2depth/bin/python",
+    "os": "Linux-5.4.0-139-generic-x86_64-with-glibc2.27",
+    "python": "3.9.16",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti",
+    "gpu_count": 2,
+    "cpu_count": 24,
+    "args": [
+        "--settings_file",
+        "config/settings_DSEC.yaml"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "MVSEC_20230505-214238",
+    "project": "zhaoning_sun_semester_thesis",
+    "heartbeatAt": "2023-05-05T13:42:49.060857"
+}
